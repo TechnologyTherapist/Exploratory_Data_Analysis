@@ -65,50 +65,7 @@ Contributions to this EDA project repository are highly encouraged. If you have 
 This project is licensed under the [MIT License](LICENSE).
 
 ```
-       +-------------------+
-       | Define Objective  |
-       +--------+----------+
-                |
-                v
-       +-------------------+
-       | Data Collection   |
-       +--------+----------+
-                |
-                v
-       +-------------------+
-       | Data Preprocessing|
-       +--------+----------+
-                |
-                v
-       +-------------------+
-       | Exploratory Data  |
-       |     Analysis      |
-       +--------+----------+
-                |
-                v
-       +-------------------+
-       | Data Visualization|
-       +--------+----------+
-                |
-                v
-       +-------------------+
-       | Feature Selection |
-       +--------+----------+
-                |
-                v
-       +-------------------+
-       | Model Building    |
-       +--------+----------+
-                |
-                v
-       +-------------------+
-       | Model Evaluation  |
-       +--------+----------+
-                |
-                v
-       +-------------------+
-       | Conclusion        |
-       +-------------------+
+
 Certainly! Here's a simplified EDA workflow diagram:
 
 ```
