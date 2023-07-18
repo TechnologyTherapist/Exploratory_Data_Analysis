@@ -24,16 +24,13 @@ Welcome to my Exploratory Data Analysis (EDA) project repository! This project f
 
 Feel free to explore each project folder or file to learn more about the specific analyses performed and the insights derived. Contributions and feedback are always welcome!
 
-## How to Use
-
-1. Clone the repository to your local machine using the following command:
 
 
 ## How to Use
 
 1. Clone the repository to your local machine using the following command:
    ```
-   git clone https://github.com/your-username/your-repo.git
+  git clone https://github.com/TechnologyTherapist/Exploratory_Data_Analysis.git
    ```
 
 2. Navigate to the specific project folder or file you are interested in.
