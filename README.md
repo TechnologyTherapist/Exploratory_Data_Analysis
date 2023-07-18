@@ -1,4 +1,3 @@
-```
 # Exploratory Data Analysis (EDA) Project
 
 Welcome to my Exploratory Data Analysis (EDA) project repository! This project focuses on analyzing various datasets to gain insights and make informed decisions. In this repository, you will find different EDA projects, each targeting a specific area of analysis.
@@ -24,6 +23,11 @@ Welcome to my Exploratory Data Analysis (EDA) project repository! This project f
 - **Uber_Data_Analysis.ipynb**: Jupyter Notebook analyzing Uber ride data, including peak hours, trip patterns, and geographical insights.
 
 Feel free to explore each project folder or file to learn more about the specific analyses performed and the insights derived. Contributions and feedback are always welcome!
+
+## How to Use
+
+1. Clone the repository to your local machine using the following command:
+
 
 ## How to Use
 
