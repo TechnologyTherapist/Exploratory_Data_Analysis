@@ -65,4 +65,118 @@ Contributions to this EDA project repository are highly encouraged. If you have 
 This project is licensed under the [MIT License](LICENSE).
 
 ```
+       +-------------------+
+       | Define Objective  |
+       +--------+----------+
+                |
+                v
+       +-------------------+
+       | Data Collection   |
+       +--------+----------+
+                |
+                v
+       +-------------------+
+       | Data Preprocessing|
+       +--------+----------+
+                |
+                v
+       +-------------------+
+       | Exploratory Data  |
+       |     Analysis      |
+       +--------+----------+
+                |
+                v
+       +-------------------+
+       | Data Visualization|
+       +--------+----------+
+                |
+                v
+       +-------------------+
+       | Feature Selection |
+       +--------+----------+
+                |
+                v
+       +-------------------+
+       | Model Building    |
+       +--------+----------+
+                |
+                v
+       +-------------------+
+       | Model Evaluation  |
+       +--------+----------+
+                |
+                v
+       +-------------------+
+       | Conclusion        |
+       +-------------------+
+Certainly! Here's a simplified EDA workflow diagram:
+
+```
+       +-------------------+
+       | Define Objective  |
+       +--------+----------+
+                |
+                v
+       +-------------------+
+       | Data Collection   |
+       +--------+----------+
+                |
+                v
+       +-------------------+
+       | Data Preprocessing|
+       +--------+----------+
+                |
+                v
+       +-------------------+
+       | Exploratory Data  |
+       |     Analysis      |
+       +--------+----------+
+                |
+                v
+       +-------------------+
+       | Data Visualization|
+       +--------+----------+
+                |
+                v
+       +-------------------+
+       | Feature Selection |
+       +--------+----------+
+                |
+                v
+       +-------------------+
+       | Model Building    |
+       +--------+----------+
+                |
+                v
+       +-------------------+
+       | Model Evaluation  |
+       +--------+----------+
+                |
+                v
+       +-------------------+
+       | Conclusion        |
+       +-------------------+
+```
+
+This workflow represents a typical EDA process. Here's a brief explanation of each step:
+
+1. Define Objective: Clearly define the objective and goals of your analysis. This helps focus your efforts and determine the specific insights you aim to derive from the data.
+
+2. Data Collection: Gather the relevant data from various sources such as databases, APIs, or files. Ensure that the data collected aligns with your defined objective.
+
+3. Data Preprocessing: Clean and preprocess the data to handle missing values, outliers, and inconsistencies. Perform tasks such as data normalization, feature scaling, and handling categorical variables.
+
+4. Exploratory Data Analysis: Explore the dataset using statistical techniques, data visualization, and summary statistics. Gain insights into the data, identify patterns, relationships, and potential outliers.
+
+5. Data Visualization: Create visual representations of the data through charts, graphs, and plots. Visualizations help communicate the findings effectively and provide a clearer understanding of the data.
+
+6. Feature Selection: Identify the most relevant features for your analysis. This involves evaluating feature importance, correlation analysis, and dimensionality reduction techniques to select the features that contribute the most to the objective.
+
+7. Model Building: Develop predictive or analytical models based on the selected features. This step can include techniques such as regression, classification, clustering, or other machine learning algorithms.
+
+8. Model Evaluation: Assess the performance of the models using appropriate evaluation metrics. This step helps understand how well the models generalize to new data and make predictions or classifications.
+
+9. Conclusion: Summarize the findings and insights obtained from the EDA process. Provide a clear conclusion and actionable recommendations based on the analysis.
+
+Remember that this diagram represents a high-level overview, and the actual EDA process may vary depending on the specific project and requirements.
 
